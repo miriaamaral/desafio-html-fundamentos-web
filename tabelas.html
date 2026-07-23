@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumo: Criando Tabelas</title>
+</head>
+
+<body>
+    <h1>📊 Criando Tabelas com HTML</h1>
+    <p>E aí, meu 🐙! Organizar dados numéricos e textuais de forma tabular e acessível é uma arte. Veja o que aprendi
+        sobre as Tabelas!</p>
+    <hr />
+
+    <h2>A Anatomia da Tabela</h2>
+    <p>Para construir a malha da tabela, usamos algumas <i>tags</i> fundamentais. Tudo é envolvido pela tag
+        <code>&lt;table&gt;</code>. Por dentro, usamos:
+    </p>
+    <ul>
+        <li><strong>&lt;tr&gt;</strong> (<i>Table Row</i>): Cria as linhas horizontais.</li>
+        <li><strong>&lt;th&gt;</strong> (<i>Table Heading</i>): Usado para os títulos das colunas. O texto já fica em
+            negrito e centralizado por padrão.</li>
+        <li><strong>&lt;td&gt;</strong> (<i>Table Data</i>): As células normais onde os dados moram.</li>
+    </ul>
+
+    <h2>Semântica Importa!</h2>
+    <p>Hoje em dia não jogamos as linhas de qualquer jeito. Devemos dividir a tabela em <strong>três blocos
+            lógicos</strong>: <code>&lt;thead&gt;</code> (cabeçalho), <code>&lt;tbody&gt;</code> (corpo com os dados) e
+        <code>&lt;tfoot&gt;</code> (rodapé, geralmente para totais).
+    </p>
+
+    <h2>Mesclando Células</h2>
+    <p>Sabe quando você precisa que uma célula ocupe mais espaço? Temos atributos para isso!</p>
+    <ul>
+        <li><code>colspan="2"</code>: Expande a célula horizontalmente (ocupa colunas adjacentes).</li>
+        <li><code>rowspan="2"</code>: Expande a célula verticalmente (ocupa linhas adjacentes).</li>
+    </ul>
+    <p><small><b>Nota:</b> Estilização com <i>bgcolor</i> ou <i>cellpadding</i> ficou no passado! Agora é tudo feito com
+            CSS limpo.</small></p>
+
+    <br><br>
+    <a href="index.html">🔙 Voltar para o Índice</a>
+</body>
+
+</html>
