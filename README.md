@@ -10,6 +10,10 @@ O objetivo principal deste projeto foi construir uma página Web estruturada uti
 
 ## 🎥 Veja o Projeto em Ação!
 
+<div align="center">
+    <img src="img/captura-inicio.PNG" alt="Screenshot of the HTML Fundamentals Challenge project homepage displaying a structured digital notebook layout. The page features heading hierarchy from h1 to h6, formatted text examples including bold, italic, underlined, and highlighted text, an organized navigation menu with internal anchor links, semantic HTML5 elements like blockquotes and abbreviations, ordered and unordered lists, and external hyperlinks. The design demonstrates clean HTML structure with a professional, educational tone showcasing beginner web development concepts in a well-organized and accessible format.">
+</div>
+
 Quer dar uma olhada na página estruturada ao vivo? 
 👉 **[INSERIR O LINK DO DEPLOY AQUI]** *(Dica: Se hospedar no Vercel ou GitHub Pages, cole o link acima)*
 
@@ -34,29 +38,6 @@ Durante o desenvolvimento, foram aplicadas as seguintes estruturas HTML5:
 - **Listas:** Ordenadas (`<ol>`) e Não Ordenadas (`<ul>`) com itens (`<li>`)
 - **Navegação e Hiperlinks:** `<a>` (com navegação entre arquivos `.html`, navegação interna via `id` e links externos abrindo em nova guia com `target="_blank"`)
 - **Controle de Versão:** Git e GitHub para documentação e versionamento.
-
----
-
-## 📂 Outros Projetos (Meu Portfólio)
-
-Explore os projetos abaixo e clique para ver o código no GitHub!
-
-<br>
-<div align="center">
-    <a href="https://github.com/miriaamaral/JS-Jogo-Detona-Ralph" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/miriaamaral/JS-Jogo-Detona-Ralph/raw/main/assets/img/thumb-detona-ralph.png" alt="Miniatura do Projeto Jogo Detona Ralph" width="300px" style="border-radius: 8px; margin: 10px; border: 1px solid #B18B77;">
-        <p style="color: #B18B77; font-weight: bold;">Jogo Detona Ralph</p>
-    </a>
-    <a href="https://github.com/miriaamaral/JS-Jogo-da-Memoria" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/miriaamaral/JS-Jogo-da-Memoria/raw/main/assets/img/thumb-jogo-da-memoria.png" alt="Miniatura do Projeto Jogo da Memória" width="300px" style="border-radius: 8px; margin: 10px; border: 1px solid #B18B77;">
-        <p style="color: #B18B77; font-weight: bold;">Jogo da Memória JS</p>
-    </a>
-    <a href="https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha/raw/main/assets/img/thumb-multiverso-homem-aranha.png" alt="Miniatura do Projeto Landing Page Multiverso Homem Aranha" width="300px" style="border-radius: 8px; margin: 10px; border: 1px solid #B18B77;">
-        <p style="color: #B18B77; font-weight: bold;">LP Multiverso Homem-Aranha</p>
-    </a>
-</div>
-<br>
 
 ---
 
