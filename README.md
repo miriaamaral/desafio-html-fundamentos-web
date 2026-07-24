@@ -10,14 +10,14 @@ O objetivo principal deste projeto foi construir uma página Web estruturada uti
 
 ## 🎥 Veja o Projeto em Ação!
 
+Quer dar uma olhada na página estruturada ao vivo? 
+👉 [Desafio HTML Fundamentos Web no ar](https://miriaamaral.github.io/desafio-html-fundamentos-web/)
+
+
 <div align="center">
     <img src="img/captura-inicio.PNG" alt="Screenshot of the HTML Fundamentals Challenge project homepage displaying a structured digital notebook layout. The page features heading hierarchy from h1 to h6, formatted text examples including bold, italic, underlined, and highlighted text, an organized navigation menu with internal anchor links, semantic HTML5 elements like blockquotes and abbreviations, ordered and unordered lists, and external hyperlinks. The design demonstrates clean HTML structure with a professional, educational tone showcasing beginner web development concepts in a well-organized and accessible format.">
 </div>
 
-Quer dar uma olhada na página estruturada ao vivo? 
-👉 **[INSERIR O LINK DO DEPLOY AQUI]** *(Dica: Se hospedar no Vercel ou GitHub Pages, cole o link acima)*
-
----
 
 ## 💡 Aprendizados e Observações
 
